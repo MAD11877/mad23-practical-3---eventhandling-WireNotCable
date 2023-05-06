@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/mad23-practical-3---eventhandling-WireNotCable.iml" filepath="$PROJECT_DIR$/.idea/mad23-practical-3---eventhandling-WireNotCable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/madpractical.iml" filepath="$PROJECT_DIR$/.idea/modules/madpractical.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/madpractical.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/madpractical.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/madpractical.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/madpractical.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/madpractical.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/madpractical.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/madpractical.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/madpractical.app.unitTest.iml" />
     </modules>
   </component>
 </project>
