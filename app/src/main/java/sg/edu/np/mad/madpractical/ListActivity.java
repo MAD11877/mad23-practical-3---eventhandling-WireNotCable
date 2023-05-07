@@ -28,6 +28,7 @@ public class ListActivity extends AppCompatActivity {
                 builder.setMessage("MADness");
                 builder.setPositiveButton("View", new DialogInterface.OnClickListener(){
                     public void onClick(DialogInterface dialog, int id){
+                        //send data to main activity
                         Intent sendNum = new Intent(ListActivity.this, MainActivity.class);
                         int num = new Random().nextInt();
                         sendNum.putExtra("num",num);
